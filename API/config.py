@@ -5,7 +5,7 @@ class Config:
 
 
 class DevelopmentConfig(Config):
-    DEBUB=True
+    DEBUG=True
 
 
 config = {
